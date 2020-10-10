@@ -12,5 +12,7 @@ The player's goal is to make as much money as possible, either before:
 - They die
 
 Good luck!
+
 (P.S. There is a rule book in game containing additional information)
+
 (P.P.S. Spoiler Alert: Look out for the several easter eggs throughout the game!)
